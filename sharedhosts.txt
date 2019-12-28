@@ -1,8 +1,18 @@
-192.168.1.1     gateway.local
-192.168.1.105   pihole1.local
-192.168.1.106   pihole2.local
-192.168.1.117   desktop1.local
-192.168.1.118   laptop1.local
-192.168.1.200   iot1.local
-fe80::e123:74ed:b5e:34a2        pihole1.local
-fe80::f123:73d6:fe15:f5dd       pihole2.local
+(shared host entries go here)
+192.168.1.227	zbox.soundslikeobiwan.com	zbox dns zm #www.soundslikeobiwan.com wwwB
+#
+192.168.1.058   beaglebone
+#192.168.1.226   gs-garage
+#192.168.1.106   possum
+#192.168.1.206 raspberrypi #reader
+192.168.1.207   diz diz.soundslikeobiwan.com mail mail.soundslikeobiwan.com # soundslikebiwan.com
+#192.168.1.147  gs-patio
+192.168.1.215   familyroom
+#192.168.1.222   diskstation owncloud
+192.168.1.152   plex
+#192.168.1.241   sipuraspa
+#192.168.1.252   denon
+#192.168.1.160 axis-00408cca7552
+#192.168.1.194 	NPI241E5C
+
+#192.168.1.161	hs100
