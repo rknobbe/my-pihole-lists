@@ -27,3 +27,4 @@ click.linksynergy.com
 redirect.viglink.com
 go.redirectingat.com
 browser.pipe.aria.microsoft.com
+bitbucket.org
