@@ -5,10 +5,10 @@
 #192.168.1.226   gs-garage
 #192.168.1.106   possum
 #192.168.1.206 raspberrypi #reader
-192.168.1.207   diz diz.soundslikeobiwan.com mail mail.soundslikeobiwan.com # soundslikebiwan.com
+192.168.1.207   diz diz.soundslikeobiwan.com # soundslikebiwan.com
 #192.168.1.147  gs-patio
 192.168.1.215   familyroom
-#192.168.1.222   diskstation owncloud
+192.168.1.222   diskstation diskstation.soundslikebiwan.com mail mail.soundslikebiwan.com
 192.168.1.152   plex
 #192.168.1.241   sipuraspa
 #192.168.1.252   denon
